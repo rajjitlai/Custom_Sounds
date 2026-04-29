@@ -51,7 +51,7 @@ A professional music player and sound management platform built for creators.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rajjitlaishram/custom-sounds.git
+   git clone https://github.com/rajjitlai/Custom_Sounds.git
    cd custom-sounds
    ```
 
